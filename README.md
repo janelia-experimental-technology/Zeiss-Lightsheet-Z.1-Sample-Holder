@@ -4,11 +4,6 @@
 
 <h1>Z.1-Compatible Sample Holder</h1>
 
-<hr>
-
-<p><strong>Published:</strong> June 31, 2022 | JST</p>
-<p><strong>Transferred to GitHub:</strong> June 4, 2026 | JST</p>
-
 </div>
 
 <div style="page-break-after: always;"></div>
@@ -85,6 +80,14 @@ Any prototyping fabricator should be able to take care of the Base part for you,
 ![Machined Lightsheet Holder, version 20M](<Images/V20M.PNG>)
 
 *Figure 4: Machined Lightsheet Holder, version 20M*
+
+
+<hr>
+
+<p><strong>Published:</strong> June 31, 2022 | JST</p>
+<p><strong>Transferred to GitHub:</strong> June 4, 2026 | JST</p>
+
+<hr>
 
 Opportunity: Free to make for Non-Profit Research by downloading the design here . See included hardware license. Rights and designs available for Commercial License. Janelia makes no endorsements or guarantees of licensee products. 
 
