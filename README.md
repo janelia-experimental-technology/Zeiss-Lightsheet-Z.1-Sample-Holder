@@ -20,6 +20,10 @@ Issues faced during development included wildly inconsistent tolerances between 
 
 Due to the frustration in achieving quality results with printed sample holders, a machined sample holder was designed to avoid printing process woes. The machined holder consists of a reusable metal base and a semi-disposable plastic platform. A new printed version was also worked up with new features that help mitigate some issues faced with the old printed versions.
 
+<p align="center">
+  <img src="Images/Rotor Post.PNG" alt="App screenshot" width="700">
+</p>
+
 ![Rotor Post to which the Lightsheet Holder is affixed](<Images/Rotor Post.PNG>)
 
 *Figure 1: Rotor Post to which the Lightsheet Holder is affixed*
