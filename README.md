@@ -85,7 +85,7 @@ Forward the STP <u>and</u> PDF files for the Base to your machining service to h
 
 Any prototyping fabricator should be able to take care of the Base part for you, but either Xometry or Protolabs are recommended. The Platform part is most cost effective if it can be lasercut in-house en masse from acrylic, but it can also be sent out for lasercutting, waterjetting, or machining from acrylic, polycarbonate, or stainless steel if an in-house lasercutter is not available. SendCutSend or Xometry is recommended for the platform.
 
-![Machined Lightsheet Holder, version 20M](<Images/V18R.PNG>)
+![Machined Lightsheet Holder, version 20M](<Images/V20M.PNG>)
 
 *Figure 4: Machined Lightsheet Holder, version 20M*
 
