@@ -91,4 +91,4 @@ Any prototyping fabricator should be able to take care of the Base part for you,
 
 For inquiries, please contact innovation@janelia.hhmi.org and reference this repository.
 
-To cite the designs, please use DOI:
+To cite the designs, please use DOI: https://doi.org/10.25378/janelia.32582463
