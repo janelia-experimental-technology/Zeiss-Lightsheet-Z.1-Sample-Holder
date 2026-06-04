@@ -10,7 +10,7 @@
 
 <p><strong>Revised:</strong> October 31, 2022 | JST</p>
 
-<p><strong>Transferred to GitHub:</strong> June 2, 2026 | JST</p>
+<p><strong>Transferred to GitHub:</strong> June 4, 2026 | JST</p>
 
 </div>
 
