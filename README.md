@@ -2,7 +2,7 @@
 
 <hr>
 
-<h1>Lightsheet Holder V18R & V20M</h1>
+<h1>Z.1-Compatible Sample Holder</h1>
 
 <hr>
 
