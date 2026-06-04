@@ -23,7 +23,7 @@ Due to the frustration in achieving quality results with printed sample holders,
 <p align="center">
   <img src="Images/Rotor Post.PNG" alt="Rotor Post to which the Lightsheet Holder is affixed">
   <br>
-  *Figure 1: Rotor Post to which the Lightsheet Holder is affixed*
+  <em>Figure 1: Rotor Post to which the Lightsheet Holder is affixed</emn>
 </p>
 
 
@@ -31,7 +31,7 @@ Due to the frustration in achieving quality results with printed sample holders,
 <p align="center">
   <img src="Images/Assembled.PNG" alt="Lightsheet Holder assembled to the Rotor Post, section view">
   <br>
-  *Figure 2: Lightsheet Holder assembled to the Rotor Post, section view*
+  <em>Figure 2: Lightsheet Holder assembled to the Rotor Post, section view*</emn>
 </p>
 
 <div style="page-break-after: always;"></div>
@@ -61,7 +61,7 @@ Any printing service capable of printing VeroClear will be able to process your 
 <p align="center">
   <img src="Images/V18R.PNG" alt="Printed Lightsheet Holder, version 18R">
   <br>
-  *Figure 3: Printed Lightsheet Holder, version 18R*
+  <em>Figure 3: Printed Lightsheet Holder, version 18R*</emn>
 </p>
 
 
@@ -94,7 +94,7 @@ Any prototyping fabricator should be able to take care of the Base part for you,
 <p align="center">
   <img src="Images/V20M.PNG" alt="Printed Lightsheet Holder, version 20M">
   <br>
-  *Figure 4: Machined Lightsheet Holder, version 20M*
+  <em>Figure 4: Machined Lightsheet Holder, version 20M*</emn>
 </p>
 
 
