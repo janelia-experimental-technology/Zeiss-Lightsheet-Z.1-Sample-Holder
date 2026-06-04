@@ -21,14 +21,15 @@ Issues faced during development included wildly inconsistent tolerances between 
 Due to the frustration in achieving quality results with printed sample holders, a machined sample holder was designed to avoid printing process woes. The machined holder consists of a reusable metal base and a semi-disposable plastic platform. A new printed version was also worked up with new features that help mitigate some issues faced with the old printed versions.
 
 <p align="center">
-  <img src="Images/Rotor Post.PNG" alt="App screenshot" width="700">
+  <img src="Images/Rotor Post.PNG" alt="Rotor Post to which the Lightsheet Holder is affixed">
 </p>
-
-![Rotor Post to which the Lightsheet Holder is affixed](<Images/Rotor Post.PNG>)
 
 *Figure 1: Rotor Post to which the Lightsheet Holder is affixed*
 
-![Lightsheet Holder assembled to the Rotor Post, section view](<Images/Assembled.PNG>)
+
+<p align="center">
+  <img src="Images/Assembled.PNG" alt="Lightsheet Holder assembled to the Rotor Post, section view">
+</p>
 
 *Figure 2: Lightsheet Holder assembled to the Rotor Post, section view*
 
@@ -55,7 +56,10 @@ Forward the STL <u>or</u> STP file to your 3D printing service to have it 3D pri
 
 Any printing service capable of printing VeroClear will be able to process your parts, but Xometry is known to produce quality parts with quick turnaround.
 
-![Printed Lightsheet Holder, version 18R](<Images/V18R.PNG>)
+
+<p align="center">
+  <img src="Images/V18R.PNG" alt="Printed Lightsheet Holder, version 18R">
+</p>
 
 *Figure 3: Printed Lightsheet Holder, version 18R*
 
@@ -85,7 +89,9 @@ Forward the STP <u>and</u> PDF files for the Base to your machining service to h
 
 Any prototyping fabricator should be able to take care of the Base part for you, but either Xometry or Protolabs are recommended. The Platform part is most cost effective if it can be lasercut in-house en masse from acrylic, but it can also be sent out for lasercutting, waterjetting, or machining from acrylic, polycarbonate, or stainless steel if an in-house lasercutter is not available. SendCutSend or Xometry is recommended for the platform.
 
-![Machined Lightsheet Holder, version 20M](<Images/V20M.PNG>)
+<p align="center">
+  <img src="Images/V20M.PNG" alt="Printed Lightsheet Holder, version 20M">
+</p>
 
 *Figure 4: Machined Lightsheet Holder, version 20M*
 
