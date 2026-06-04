@@ -8,6 +8,10 @@
 
 <div style="page-break-after: always;"></div>
 
+## Abstract
+
+Selective Plane Illumination Microscopy (SPIM) is a powerful tool for volumetric imaging of cleared specimens. The Zeiss Lightsheet microscope Z.1 offers a commercial solution for SPIM imaging. The Z.1 presents sample mounting challenges, though. Users must position samples vertically and stabilize them for hours-long imaging sessions. We offer designs for a custom sample holder to mount cleared and expansion microscopy (ExM) samples on the Z.1 system.
+
 ## Purpose
 
 A disposable or semi-disposable sample holder (shown in red in Figure 2) was needed to interface with the rotor post of the Z.1 microscope (shown in yellow in Figure 2). Two final versions have been developed - one to be printed and the other to be machined. The machined version will have a higher setup cost, but will be cheaper and more reliable in the long run.
