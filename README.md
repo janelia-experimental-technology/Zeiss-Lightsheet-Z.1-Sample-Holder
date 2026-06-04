@@ -88,3 +88,7 @@ Any prototyping fabricator should be able to take care of the Base part for you,
 ![Machined Lightsheet Holder, version 20M](<Images/V20M.PNG>)
 
 *Figure 4: Machined Lightsheet Holder, version 20M*
+
+For inquiries, please contact innovation@janelia.hhmi.org and reference this repository.
+
+To cite the designs, please use DOI:
