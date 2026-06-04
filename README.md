@@ -93,6 +93,8 @@ Any prototyping fabricator should be able to take care of the Base part for you,
 
 <hr>
 
+## Use
+
 Opportunity: Free to make for Non-Profit Research by downloading the design here . See included hardware license. Rights and designs available for Commercial License. Janelia makes no endorsements or guarantees of licensee products. 
 
 Rights and designs available for Commercial License. Janelia makes no endorsements or guarantees of licensee products.
